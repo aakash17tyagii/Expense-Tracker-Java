@@ -7,7 +7,7 @@ This is a simple **Expense Tracker** I built using Java. The project lets you **
 
 ✅ **Add Income or Expense**
 - You can enter the **date**, **type** (Income/Expense), **category** (like Food, Rent, Travel, Salary, Business), and **amount**.
-
+ 
 ✅ **Categorize Transactions**
 - For **Income**, you can choose **Salary** or **Business**.
 - For **Expenses**, you can choose **Food**, **Rent**, or **Travel**.
