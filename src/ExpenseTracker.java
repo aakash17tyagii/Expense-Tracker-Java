@@ -4,7 +4,7 @@ import java.util.*;
 
 public class ExpenseTracker {
     static Scanner sc = new Scanner(System.in);
-    static ArrayList<Transaction> transactions = new ArrayList<>();
+    static ArrayList<Transaction> transactions = new ArrayList<>(); 
 
     public static void main(String[] args) {
 
