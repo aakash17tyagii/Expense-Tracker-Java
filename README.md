@@ -13,7 +13,7 @@ This is a simple **Expense Tracker** I built using Java. The project lets you **
 - For **Expenses**, you can choose **Food**, **Rent**, or **Travel**.
 
 ✅ **Monthly Summary**
-- Shows **total income**, **total expense**, and **balance** (Income - Expense) for each month.
+- Shows **total income**, **total expense**, and **balance** (Income - Expense) for each month. 
 
 ✅ **File Support**
 - Load transactions from a file.
