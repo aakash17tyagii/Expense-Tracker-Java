@@ -21,7 +21,7 @@ This is a simple **Expense Tracker** I built using Java. The project lets you **
 
 ---
 
-## 🗂️ How It Works
+## 🗂️ How It Works 
 
 When you run the program, it shows a menu:
 
