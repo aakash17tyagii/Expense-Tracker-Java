@@ -10,7 +10,7 @@ This is a simple **Expense Tracker** I built using Java. The project lets you **
    
 ✅ **Categorize Transactions**
 - For **Income**, you can choose **Salary** or **Business**.
-- For **Expenses**, you can choose **Food**, **Rent**, or **Travel**.
+- For **Expenses**, you can choose **Food**, **Rent**, or **Travel**. 
  
 ✅ **Monthly Summary**
 - Shows **total income**, **total expense**, and **balance** (Income - Expense) for each month. 
